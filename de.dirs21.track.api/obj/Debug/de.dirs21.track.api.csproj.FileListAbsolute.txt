@@ -1,0 +1,171 @@
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de.dirs21.track.api.dll.config
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de.dirs21.track.api.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de.dirs21.track.api.pdb
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Antlr3.Runtime.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\EntityFramework.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\EntityFramework.SqlServer.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Newtonsoft.Json.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Owin.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Net.Http.Formatting.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Helpers.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Http.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Http.Owin.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Http.WebHost.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Mvc.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Optimization.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Razor.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.WebPages.Deployment.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.WebPages.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.WebPages.Razor.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\WebGrease.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Newtonsoft.Json.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Net.Http.Formatting.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Helpers.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Http.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Http.WebHost.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Mvc.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Optimization.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Razor.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.WebPages.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.WebPages.Deployment.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.WebPages.Razor.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Antlr3.Runtime.pdb
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\EntityFramework.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\EntityFramework.SqlServer.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Http.Owin.xml
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Net.Http.Formatting.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.Helpers.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.Http.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.Http.WebHost.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.Mvc.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.Optimization.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.Razor.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.WebPages.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.WebPages.Deployment.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.WebPages.Razor.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\EntityFramework.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\EntityFramework.SqlServer.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.Owin.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.Owin.Security.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.Owin.Security.Google.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.Http.Owin.resources.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\obj\Debug\de.dirs21.track.api.csprojResolveAssemblyReference.cache
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\obj\Debug\de.dirs21.track.api.dll
+c:\users\ap.touronline\documents\visual studio 2013\Projects\de.dirs21.track.api\de.dirs21.track.api\obj\Debug\de.dirs21.track.api.pdb
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de.dirs21.track.api.dll.config
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de.dirs21.track.api.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de.dirs21.track.api.pdb
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Antlr3.Runtime.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\EntityFramework.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\EntityFramework.SqlServer.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.Google.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Web.Infrastructure.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Newtonsoft.Json.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Owin.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Net.Http.Formatting.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Helpers.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Http.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Http.Owin.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Http.WebHost.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Mvc.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Optimization.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Razor.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.WebPages.Deployment.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.WebPages.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.WebPages.Razor.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\WebGrease.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Newtonsoft.Json.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Net.Http.Formatting.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Helpers.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Http.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Http.WebHost.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Mvc.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Optimization.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Razor.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.WebPages.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.WebPages.Deployment.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.WebPages.Razor.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Antlr3.Runtime.pdb
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\EntityFramework.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\EntityFramework.SqlServer.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.Google.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\System.Web.Http.Owin.xml
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Net.Http.Formatting.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.Helpers.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.Http.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.Http.WebHost.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.Mvc.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.Optimization.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.Razor.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.WebPages.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.WebPages.Deployment.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.WebPages.Razor.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\EntityFramework.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\EntityFramework.SqlServer.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.Owin.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.Owin.Security.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.Owin.Security.Google.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\bin\de\System.Web.Http.Owin.resources.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\obj\Debug\de.dirs21.track.api.dll
+D:\Development\git\de.dirs21.track.api\de.dirs21.track.api\obj\Debug\de.dirs21.track.api.pdb
